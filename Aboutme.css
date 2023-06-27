@@ -140,7 +140,7 @@ body {
 
   50% {
       transform: translateY(-24px);
-  }
+}
 
   100%{
       transform: translateY(0);
